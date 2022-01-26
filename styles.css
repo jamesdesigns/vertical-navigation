@@ -9,8 +9,21 @@
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  justify-content: center;
   height: 100vh;
   background-color: #000;
   width: 200px;
+  color: #FFF;
+  padding-left: 8%;
+}
+
+.nav-dot {
+  padding-bottom: 10px;
+  color: #c2c2c2;
+}
+
+ .active {
+   margin-left: -2px;
+  font-size: 2rem;
   color: #FFF;
 }
