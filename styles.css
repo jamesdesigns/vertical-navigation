@@ -26,9 +26,21 @@ html {
   color: #c2c2c2;
 }
 
+.logo {
+  display: block;
+  position: absolute;
+  top: 30px;
+  margin-left: -13px;
+}
+
+.vert-line { 
+  height: 200px; 
+  padding-bottom: 10px;
+}
+
 .nav-num {
   margin-left: -13px;
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #FFF;
 }
 
